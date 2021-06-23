@@ -4,7 +4,7 @@ Welcome to my Github page! I am a 4<sup>th</sup> year CS undergrad 💻 at <a hr
 
 I am currently researching 🔭 in **Privacy Preserving Machine Learning.** My interests are Machine Learning 📟 and Cryptography 🔐. I am open to jobs in Data Science 📈 and ML Engineering 🛠️.
 
-My past research and work experience include Email end-to-end encryption ✉️, Subpopulation Attack, One-shot learning, and Web Development 📱. 
+My past research and work experience include Email end-to-end encryption ✉️, Subpopulation Attack, One-shot learning, and Web Development 📱. (Scroll below to see my projects)
 
  **Things I code with:**
  
