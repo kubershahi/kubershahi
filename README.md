@@ -50,8 +50,8 @@ I am currently researching 🔭 in **Privacy Preserving Machine Learning.** My i
 </p>
 
 <p align=center>
-  <a href="https://komarev.com/ghpvc/?username=kubershahi" title="Go to Source">
+<!--   <a href="https://komarev.com/ghpvc/?username=kubershahi" title="Go to Source"> -->
     <img align="center" src="https://komarev.com/ghpvc/?username=kubershahi">
-  </a>
+<!--   </a> -->
 </p>
 
