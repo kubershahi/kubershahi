@@ -1,9 +1,6 @@
-### Hi there 👋 I amd Kuber
+### Hi there 👋 
 
-<!--
-**kubershahi/kubershahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Welcome to my Github page! I am a 4th year Computer Science :computer: undergraduate at [Ashoka Univeristy](ashoka.edu.in) :mortar_board:.
 
 - 🔭 I’m currently working on Privacy Preserving Machine Learning
 - 🌱 I’m currently learning C++
@@ -13,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
--->
+
+
