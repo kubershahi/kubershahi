@@ -37,10 +37,10 @@ I am currently researching 🔭 in **Privacy Preserving Machine Learning.** My i
 
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=harpreetvirkk&show_icons=true&theme=gotham">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=kubershahi&show_icons=true&theme=gotham">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harpreetvirkk&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubershahi&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@ I am currently researching 🔭 in **Privacy Preserving Machine Learning.** My i
 </p>
 
 <p align=center>
-  <a href="https://komarev.com/ghpvc/?username=yharpreetvirkk" title="Go to Source">
+  <a href="https://komarev.com/ghpvc/?username=kubershahi" title="Go to Source">
     <img align="center" src="https://komarev.com/ghpvc/?username=yharpreetvirkk">
   </a>
 </p>
