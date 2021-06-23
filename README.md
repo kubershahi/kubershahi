@@ -25,7 +25,7 @@ My past research and work experience include Email end-to-end encryption ✉️,
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759b?style=flat-square&logo=Wordpress&logoColor=white"/>
   <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
-  <img alt="Matlab" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=matlab&logoColor=white"/>
+  <img alt="Matlab" src="https://img.shields.io/badge/Matlab-%23276DC3.svg?style=for-the-badge&logo=Matlab&logoColor=white"/>
   <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
   <img alt="MSOffice" src="https://img.shields.io/badge/-MSOffice-D83B01?style=flat-square&logo=Microsoft-Office&logoColor=white"/>
   
