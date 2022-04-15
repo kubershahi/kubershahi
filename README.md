@@ -2,7 +2,7 @@
 
 Welcome to my Github page! I am a 4<sup>th</sup> year CS undergrad 💻 at <a href="https://www.ashoka.edu.in/" target="_blank">Ashoka University </a> 🎓.
 
-I am currently learning 📖 and researching 🔭 in **Deep Learning**, especially Transformers. I am broadly interested in Machine Learning 📟 and Cryptography🔐. I am open to jobs in Data Science 📈 and ML Engineering 🛠️.
+I am currently learning 📖 and researching 🔭 in *Deep Learning*, especially *Transformers*. I am broadly interested in Machine Learning 📟 and Cryptography🔐. I am open to jobs in Data Science 📈 and ML Engineering 🛠️.
 
 My past research 📄 and work experience 🏢 include Privacy Preserving Neural Networks, Subpopulation Attack (Data Poisoning), One-shot Learning, Web Development 📱, and Email end-to-end encryption ✉️. (Scroll below to see my projects)
 
