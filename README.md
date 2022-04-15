@@ -25,12 +25,11 @@ My past research 📄 and work experience 🏢 include Privacy Preserving Neural
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759b?style=flat-square&logo=Wordpress&logoColor=white"/>
+<!--   <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759b?style=flat-square&logo=Wordpress&logoColor=white"/> -->
   <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
   <img alt="Matlab" src="https://img.shields.io/badge/Matlab-%23276DC3.svg?style=for-the-badge&logo=Matlab&logoColor=white"/>
   <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
-  <img alt="MSOffice" src="https://img.shields.io/badge/-MSOffice-D83B01?style=flat-square&logo=Microsoft-Office&logoColor=white"/>
-  
+<!--   <img alt="MSOffice" src="https://img.shields.io/badge/-MSOffice-D83B01?style=flat-square&logo=Microsoft-Office&logoColor=white"/> -->
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   
