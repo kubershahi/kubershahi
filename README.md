@@ -8,7 +8,7 @@ I am currently learning 📖 and researching 🔭 in **Deep Learning**, especial
 
 My past research 📄 and work experience 🏢 include Privacy Preserving Neural Networks, Subpopulation Attack (Data Poisoning), One-shot Learning, Web Development 📱, and Email end-to-end encryption ✉️. (Scroll below to see my projects)
 
-❄️ Besides that, I like sci-fi and space 🌌 movies. I religiously follow football ⚽ (Chelsea fan) and Formula 1 🚗.
+❄️ Besides that, I like thriller, sci-fi,and space 🌌 movies. I religiously follow Football ⚽ (Chelsea fan) and Formula1 🚗 (Redbull fan).
 
  **Things I code with:**
  
