@@ -4,7 +4,7 @@ Welcome to my Github page!
 
 <!-- I am a 4<sup>th</sup> year CS undergrad 💻 at <a href="https://www.ashoka.edu.in/" target="_blank">Ashoka University </a> 🎓. -->
 
-I am currently working as a Data Scientist 📊 at a trade financing company. In my free time, I am learning 📖 and researching 🔭 in **Deep Learning**, especially *Transformers*. I am broadly interested in Machine Learning 📟 and Cryptography🔐. 
+I am currently working as a Data Scientist 📊 at a trade financing company. In my free time, I am learning 📖 and researching 🔭 in **Deep Learning**, especially *Transformers*. I am broadly interested in building systems 📟 that maximizes the use of AI :space_invader:. 
 
 <!-- I am open to jobs in Data Science 📈 and ML Engineering 🛠️. -->
 
@@ -62,5 +62,5 @@ My past research 📄 and work experience 🏢 include Privacy Preserving Neural
 [![](https://komarev.com/ghpvc/?username=kubershahi&color=blue&label=Profile%20Views)](https://github.com/kubershahi/kubershahi)
 [![](https://img.shields.io/github/followers/kubershahi?label=GitHub%20Followers)](https://github.com/kubershahi) -->
 
-[](https://komarev.com/ghpvc/?username=kubershahi&color=blue&label=Profile%20Views)
-[](https://img.shields.io/github/followers/kubershahi?label=GitHub%20Followers)
+![](https://komarev.com/ghpvc/?username=kubershahi&color=blue&label=Profile%20Views)
+![](https://img.shields.io/github/followers/kubershahi?label=GitHub%20Followers)
