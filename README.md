@@ -4,7 +4,9 @@ Welcome to my Github page!
 
 <!-- I am a 4<sup>th</sup> year CS undergrad 💻 at <a href="https://www.ashoka.edu.in/" target="_blank">Ashoka University </a> 🎓. -->
 
-I am currently learning 📖 and researching 🔭 in **Deep Learning**, especially *Transformers*. I am broadly interested in Machine Learning 📟 and Cryptography🔐. I am open to jobs in Data Science 📈 and ML Engineering 🛠️.
+I am currently working as a Data Scientist :bar_chart:  💻 at a 
+
+  learning 📖 and researching 🔭 in **Deep Learning**, especially *Transformers*. I am broadly interested in Machine Learning 📟 and Cryptography🔐. I am open to jobs in Data Science 📈 and ML Engineering 🛠️.
 
 My past research 📄 and work experience 🏢 include Privacy Preserving Neural Networks, Subpopulation Attack (Data Poisoning), One-shot Learning, Web Development 📱, and Email end-to-end encryption ✉️. (Scroll below to see my projects)
 
@@ -52,6 +54,9 @@ My past research 📄 and work experience 🏢 include Privacy Preserving Neural
 
 
 
-**Where to find me:** 
+**Let's Connect:** 
 <p><a href="#" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=AirplayVideo&logoColor=white" /></a> <a href="https://twitter.com/_shahikuber" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/kubershahi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+[![](https://komarev.com/ghpvc/?username=kubershahi&color=blue&label=Profile%20Views)](https://github.com/kubershahi/kubershahi)
+[![](https://img.shields.io/github/followers/kubershahi?label=GitHub%20Followers)](https://github.com/kubershahi)
