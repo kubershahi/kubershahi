@@ -29,6 +29,7 @@ My past research 📄 and work experience 🏢 include Privacy Preserving Neural
  
   <img alt="Mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+ ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
@@ -59,4 +60,4 @@ My past research 📄 and work experience 🏢 include Privacy Preserving Neural
 </p>
 
 [![](https://komarev.com/ghpvc/?username=kubershahi&color=blue&label=Profile%20Views)](https://github.com/kubershahi/kubershahi)
-[![](https://img.shields.io/github/followers/kubershahi?color=black&label=GitHub%20Followers)](https://github.com/kubershahi)
+[![](https://img.shields.io/github/followers/kubershahi?label=GitHub%20Followers)](https://github.com/kubershahi)
