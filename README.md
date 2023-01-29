@@ -4,7 +4,7 @@ Welcome to my Github page!
 
 <!-- I am a 4<sup>th</sup> year CS undergrad 💻 at <a href="https://www.ashoka.edu.in/" target="_blank">Ashoka University </a> 🎓. -->
 
-I am currently working as a Data Scientist :bar_chart:  💻 at a 
+I am currently working as a Data Scientist [:bar_chart:] 💻 at a 
 
   learning 📖 and researching 🔭 in **Deep Learning**, especially *Transformers*. I am broadly interested in Machine Learning 📟 and Cryptography🔐. I am open to jobs in Data Science 📈 and ML Engineering 🛠️.
 
