@@ -4,13 +4,13 @@ Welcome to my Github page!
 
 <!-- I am a 4<sup>th</sup> year CS undergrad 💻 at <a href="https://www.ashoka.edu.in/" target="_blank">Ashoka University </a> 🎓. -->
 
-I am currently working as a Data Scientist 📊 at a trade financing company. In my free time, I am learning 📖 newer concepts and researching 🔭 in **Deep Learning**. I am broadly interested in building systems 📟 that maximizes the use of AI :space_invader: for social good.
+I am currently working as a Data Scientist 📊 at a trade financing company. In my free time, I am learning 📖 newer concepts and researching 🔭 in **Deep Learning**. I am broadly interested in building systems 📟 that maximize the use of AI :space_invader: for social good.
 
 <!-- I am open to jobs in Data Science 📈 and ML Engineering 🛠️. -->
 
-My past research 📄 and work experience 🏢 include Privacy Preserving Neural Networks, Subpopulation Attack (Data Poisoning), One-shot Learning, Web Development 📱, and Email end-to-end encryption ✉️. (Scroll below to see my projects)
+My past research 📄 and work experience 🏢 include Abstractive Text Summarization, Privacy Preserving Neural Networks, Subpopulation Attack (Data Poisoning), One-shot Learning, Web Development 📱, and Email end-to-end encryption ✉️. (Scroll below to see my projects)
 
-❄️ Besides that, I like thriller, sci-fi,and space 🌌 movies. I religiously follow Football ⚽ (Chelsea supporter) and Formula1 🚗 (Redbull fan).
+❄️ Besides that, I like thrillers, sci-fi, and space 🌌 movies. I religiously follow Football ⚽ (Chelsea supporter) and Formula1 🚗 (Redbull fan).
 
  **Things I code with:**
  
