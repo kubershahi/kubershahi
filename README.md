@@ -52,7 +52,7 @@ My past research 📄 and work experience 🏢 include Abstractive Text Summariz
 
 
 **Let's Connect** 👊 
-<p><a href="#" target="https://kubershahi.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=AirplayVideo&logoColor=white" /></a> <a href="https://twitter.com/_shahikuber" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/kubershahi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://kubershahi.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=AirplayVideo&logoColor=white" /></a> <a href="https://twitter.com/_shahikuber" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/kubershahi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 [![](https://komarev.com/ghpvc/?username=kubershahi&color=blue&label=Profile%20Views)](https://github.com/kubershahi)
