@@ -4,7 +4,7 @@ Welcome to my Github page!
 
 <!-- I am a 4<sup>th</sup> year CS undergrad 💻 at <a href="https://www.ashoka.edu.in/" target="_blank">Ashoka University </a> 🎓. -->
 
-I am currently working as a Data Scientist 📊 at a trade financing company. In my free time, I am learning 📖 newer concepts and researching 🔭 in **Deep Learning**. I am broadly interested in building systems 📟 that maximize the use of AI :space_invader: for social good.
+I am currently working as a Data Scientist 📊 at a trade financing company. In my free time, I am learning 📖 newer concepts and researching 🔭 the applications of **Deep Learning** in the field of NLP and Computer Vision. I am broadly interested in building systems 📟 that maximize the use of AI :space_invader: for social good.
 
 <!-- I am open to jobs in Data Science 📈 and ML Engineering 🛠️. -->
 
