@@ -15,7 +15,7 @@ My past research 📄 and work experience 🏢 include Abstractive Text Summariz
  **Things I code with:**
  
  <p>
-  <a href="https://drive.google.com/file/d/1JFS6bBeWm4UlAQ_fubEqCSSNgYww8_8V/view"><img src="https://img.shields.io/badge/Presentation"/></a>
+  <a href="https://drive.google.com/file/d/1JFS6bBeWm4UlAQ_fubEqCSSNgYww8_8V/view"><img src="https://img.shields.io/badge/Presentation-8A2BE2"/></a>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
