@@ -4,13 +4,13 @@ Welcome to my Github page!
 
 <!-- I am a 4<sup>th</sup> year CS undergrad 💻 at <a href="https://www.ashoka.edu.in/" target="_blank">Ashoka University </a> 🎓. -->
 
-I am currently working as a Data Scientist 📊 at a trade financing company. In my free time, I am learning 📖 newer concepts and researching 🔭 the applications of **Deep Learning** in the field of **NLP** and **Computer Vision**. I am broadly interested in building systems 📟 that maximize the use of AI :space_invader: for social good.
+I am a first-year CS master's student 👨‍🎓 in the CSE department 💻 at UC San Diego 🏫, specializing in AI/ML. My research interests 📖 lie in NLP for healthcare 🩺 and low-resource languages, with a focus on developing vision-language models 🖥️ in my native languages.
 
-<!-- I am open to jobs in Data Science 📈 and ML Engineering 🛠️. -->
+For Summer 2025 ⛅, I am actively seeking opportunities in Software Engineering 🛠️, Machine Learning 🤖, or Data Science 📈. I have two years of industry experience  as a Data Scientist 👨‍🔬 at a supply chain financing company 🏛️, where I built tools and technologies to drive business growth 💸 and enhance operational efficiency ⚙️.
 
-My past research 📄 and work experience 🏢 include Abstractive Text Summarization, Privacy-Preserving Neural Networks, Subpopulation Attack (Data Poisoning), One-shot Learning, Web Development 📱, and Email end-to-end encryption ✉️. (Scroll below to see my projects)
+My past research 📄 and work experience 🏢 span areas such as Abstractive Text Summarization, Privacy-Preserving Neural Networks, Subpopulation Attack (Data Poisoning), One-shot Learning, Web Development 📱, and Email End-to-End Encryption ✉️. (Scroll down to see my projects.)
 
-❄️ Besides that, I like thrillers, sci-fi, and space 🌌 movies. I religiously follow Football ⚽ (Chelsea supporter) and Formula1 🚗 (Redbull fan).
+❄️ Outside of work, I’m a fan of thrillers, sci-fi 🛠️, and space 🌌 movies 🎥, and I follow Football ⚽ religiously (Chelsea supporter).
 
  **Things I code with:**
  
