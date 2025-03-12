@@ -4,7 +4,7 @@ Welcome to my Github page!
 
 <!-- I am a 4<sup>th</sup> year CS undergrad 💻 at <a href="https://www.ashoka.edu.in/" target="_blank">Ashoka University </a> 🎓. -->
 
-I am a first-year CS master's student 👨‍🎓 in the CSE department 💻 at UC San Diego 🏫, specializing in AI/ML. My research interests 📖 lie in LLM generation and reasoning, multi-modality,  NLP for healthcare 🩺, and low-resource languages, with a focus on developing vision-language models 🖥️ in my native languages.
+I am a first-year CS master's student 👨‍🎓 in the CSE department 💻 at UC San Diego 🏫, specializing in AI/ML. My research interests 📖 lie in Embodied AI, multi-modality,  NLP for healthcare 🩺, and low-resource languages, with a focus on developing vision-language models 🖥️ in my native languages.
 
 For Summer 2025 ⛅, I am actively seeking opportunities in Software Engineering 🛠️, Machine Learning 🤖, or Data Science 📈. I have two years of industry experience  as a Data Scientist 👨‍🔬 at a supply chain financing company 🏛️, where I built tools and technologies to drive business growth 💸 and enhance operational efficiency ⚙️.
 
