@@ -58,7 +58,7 @@ My past research 📄 and work experience 🏢 span various areas, including Abs
 
 
 **Let's Connect** 👊 
-<p><a href="https://https://kubershahi.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=AirplayVideo&logoColor=white" /></a> <a href="https://www.linkedin.com/in/kubershahi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://kubershahi.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=AirplayVideo&logoColor=white" /></a> <a href="https://www.linkedin.com/in/kubershahi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <!-- <a href="https://twitter.com/_kubershahi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 
