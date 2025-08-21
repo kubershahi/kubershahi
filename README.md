@@ -8,7 +8,7 @@ I am a second-year CS master's student 👨‍🎓 in the CSE department 💻 at
 
 I am actively seeking opportunities in Software Engineering 🛠️, Machine Learning 🤖, or Data Science 📈. I have two years of industry experience  as a Data Scientist 👨‍🔬 at a supply chain financing company 🏛️, where I built tools and technologies to drive business growth 💸 and enhance operational efficiency ⚙️.
 
-My past research 📄 and work experience 🏢 span areas such as Abstractive Text Summarization, Privacy-Preserving Neural Networks, Subpopulation Attack (Data Poisoning), One-shot Learning, Web Development 📱, and Email End-to-End Encryption ✉️. (Scroll down to see my projects.)
+My past research 📄 and work experience 🏢 span various areas, including Abstractive Text Summarization, Privacy-Preserving Neural Networks, Subpopulation Attack (Data Poisoning), One-shot Learning, Web Development 📱, and Email End-to-End Encryption ✉️. (Scroll down to see my projects.)
 
 ❄️ Outside of work, I’m a fan of thrillers, sci-fi 🛠️, and space 🌌 movies 🎥, and I follow Football ⚽ religiously (Chelsea supporter).
 
@@ -58,8 +58,9 @@ My past research 📄 and work experience 🏢 span areas such as Abstractive Te
 
 
 **Let's Connect** 👊 
-<p><a href="https://kubershahi.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=AirplayVideo&logoColor=white" /></a> <a href="https://twitter.com/_kubershahi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/kubershahi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://https://kubershahi.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=AirplayVideo&logoColor=white" /></a> <a href="https://www.linkedin.com/in/kubershahi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+<!-- <a href="https://twitter.com/_kubershahi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 
 [![](https://komarev.com/ghpvc/?username=kubershahi&color=blue&label=Profile%20Views)](https://github.com/kubershahi)
 [![](https://img.shields.io/github/followers/kubershahi?label=GitHub%20Followers)](https://github.com/kubershahi)
