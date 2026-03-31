@@ -6,7 +6,7 @@ Welcome to my Github page!
 
 I am a second-year CS master's student 👨‍🎓 in the CSE department 💻 at UC San Diego 🏫, specializing in AI/ML. My broader research interests 📖 include natural language processing, multi-modal and LLM-based reasoning, and agentic/embodied AI, with applications in healthcare 🩺 and beyond.
 
-I am actively seeking opportunities in Software Engineering 🛠️, Machine Learning 🤖, or Data Science 📈. I have two years of industry experience  as a Data Scientist 👨‍🔬 at a supply chain financing company 🏛️, where I built tools and technologies to drive business growth 💸 and enhance operational efficiency ⚙️.
+I am actively seeking opportunities in Machine Learning 🤖, and Data Science 📈. I have two years of industry experience  as a Data Scientist 👨‍🔬 at a supply chain financing company 🏛️, where I built tools and technologies to drive business growth 💸 and enhance operational efficiency ⚙️.
 
 My past research 📄 and work experience 🏢 span various areas, including Abstractive Text Summarization, Privacy-Preserving Neural Networks, Subpopulation Attack (Data Poisoning), One-shot Learning, Web Development 📱, and Email End-to-End Encryption ✉️. (Scroll down to see my projects.)
 
