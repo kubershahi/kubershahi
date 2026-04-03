@@ -49,8 +49,10 @@ My past research 📄 and work experience 🏢 span various areas, including Abs
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   
 </p>
- 
- <p align=center>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align=center>
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=kubershahi&show_icons=true&theme=gotham">
    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubershahi&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
 </p>
