@@ -2,15 +2,15 @@
 
 Welcome to my Github page! 
 
-<!-- I am a 4<sup>th</sup> year CS undergrad 💻 at <a href="https://www.ashoka.edu.in/" target="_blank">Ashoka University </a> 🎓. -->
+I build things with data 🛠️. From distributed pipelines ingesting massive, diverse datasets to training language and vision models for practical machine learning systems, I work across the full ML stack, turning messy, real-world problems into production-ready solutions.
 
-I am a second-year CS master's student 👨‍🎓 in the CSE department 💻 at UC San Diego 🏫, specializing in AI/ML. My broader research interests 📖 include natural language processing, multi-modal and LLM-based reasoning, and agentic/embodied AI, with applications in healthcare 🩺 and beyond.
+Currently researching uncertainty quantification for medical image registration 🧬 at UCSD's BIAG Lab. On the side, I've been exploring LLM-based reasoning, agentic AI architectures 🤖, and low-resource NLP for underrepresented languages, staying curious about where the boundaries of reliable machine reasoning lie.
 
-I am actively seeking opportunities in Machine Learning 🤖, and Data Science 📈. I have two years of industry experience  as a Data Scientist 👨‍🔬 at a supply chain financing company 🏛️, where I built tools and technologies to drive business growth 💸 and enhance operational efficiency ⚙️.
+My industry experience spans MLOps and healthcare at a blood diagnostics biotech 🔬, where I rebuilt ML training infrastructure for time series classification, and large-scale data engineering at a supply chain fintech 📊, where I built distributed pipelines, graph-based analytics tools, and NLP systems processing hundreds of thousands of company records.
 
-My past research 📄 and work experience 🏢 span various areas, including Abstractive Text Summarization, Privacy-Preserving Neural Networks, Subpopulation Attack (Data Poisoning), One-shot Learning, Web Development 📱, and Email End-to-End Encryption ✉️. (Scroll down to see my projects.)
+I am also expanding my ML expertise at UC San Diego 🎓 through coursework spanning Statistical NLP, Computer Vision, AI Agents, and ML Systems. Before that, I did my undergrad at Ashoka University, where I got my first taste of research in privacy-preserving ML, adversarial attacks on ML models, and applied cryptography 🔐.
 
-❄️ Outside of work, I’m a fan of thrillers, sci-fi 🛠️, and space 🌌 movies 🎥, and I follow Football ⚽ religiously (Chelsea supporter).
+Outside of code, I follow Chelsea FC ⚽, cricket 🏏, and F1 🏎️ closely, and enjoy sci-fi, mystery, and thriller films 🎥. I also like to swim and hike when I'm not staring at a screen 🏃.
 
  **Things I code with:**
  
