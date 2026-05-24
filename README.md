@@ -12,6 +12,7 @@ Expanding my ML expertise at UC San Diego 🎓 through coursework spanning Stati
 
 Outside of code, I follow Chelsea FC ⚽, cricket 🏏, and F1 🏎️ closely, and enjoy sci-fi, mystery, and thriller films 🎥. I also enjoy swimming and hiking when I'm not staring at a screen 🏃.
 
+<!--
  **Things I code with:**
  
  <p>
@@ -50,12 +51,13 @@ Outside of code, I follow Chelsea FC ⚽, cricket 🏏, and F1 🏎️ closely, 
   
 </p>
 
+
 <p align=center>
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=kubershahi&show_icons=true&theme=gotham">
    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubershahi&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
 </p>
 
-
+-->
 
 **Let's Connect** 👊 
 <p><a href="https://kubershahi.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=AirplayVideo&logoColor=white" /></a> <a href="https://www.linkedin.com/in/kubershahi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
